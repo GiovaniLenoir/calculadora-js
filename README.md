@@ -16,12 +16,6 @@ Uma calculadora simples e moderna desenvolvida com **HTML, CSS e JavaScript**, c
 
 ---
 
-## 🚀 Acesse agora
-
-🔗 [Clique aqui para abrir no navegador](https://GiovaniLenoir.github.io/calculadora-js)
-
----
-
 ## 🛠️ Como rodar localmente
 
 ```bash
@@ -49,7 +43,7 @@ open index.html    # No Mac
 
 Abaixo está a imagem preview.png usada no topo para mostrar a aparência da calculadora.
 
-<img width="1034" height="613" alt="image" src="https://github.com/user-attachments/assets/19bbf7be-6910-4a36-9c52-e3b14a52917d" />
+<img width="1034" height="613" alt="image" src="https://github.com/user-attachments/assets/fac38ccb-c62d-4f5d-b9a9-8a8bf673fe4d" />
 
 ---
 
